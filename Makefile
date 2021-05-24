@@ -4,9 +4,9 @@ INSTALL_TARGET_PROCESSES = YouTube
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = fckytshorts
+TWEAK_NAME = FuckYTShorts
 
-fckytShorts_FILES = Tweak.x
-fckytShorts_CFLAGS = -fobjc-arc
+FuckYTShorts_FILES = Tweak.x
+FuckYTShorts_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
