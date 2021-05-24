@@ -1,0 +1,9 @@
+Package: com.greenglasst.fckytshorts
+Name: fckytShorts
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Get rid of that annoying YouTube Shorts button.
+Maintainer: GreenglassT
+Author: GreenglassT
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
